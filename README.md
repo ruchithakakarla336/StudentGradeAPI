@@ -34,6 +34,4 @@ git clone https://github.com/ruchithakakarla336/StudentGradeAPI
 cd StudentGradeAPI
 dotnet run
 
-## 📬 Contact
-- 📧 ruchitha4133@gmail.com
-- 🔗 linkedin.com/in/ruchitha-k-05a59634b
+
